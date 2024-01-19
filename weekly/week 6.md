@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="weekly-report---date">Weekly Report - [Date]</h1>
+<h1 id="weekly-report---date">Weekly Report - [19.01.2024]</h1>
 <h2 id="python-http-requests">Python HTTP Requests</h2>
 <p>This week, I worked on sending HTTP GET and POST requests in the Python programming language.<br>
 <img src="https://r.resimlink.com/mfBKl9.png" alt="enter image description here"></p>
